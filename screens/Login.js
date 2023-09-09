@@ -37,8 +37,9 @@ export default function Login({ navigation }) {
 
         // ..
       });
+    // console.log(formData);
     console.log(formData);
-    console.log(formData);
+    
   }, []);
 
   useEffect(() => {
